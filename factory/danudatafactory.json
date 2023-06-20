@@ -1,0 +1,9 @@
+{
+	"name": "danudatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa9f5d22-700e-42c7-949b-5a8b4384f985",
+		"tenantId": "60176540-28ca-4ca1-bda4-ea4164363653"
+	}
+}
